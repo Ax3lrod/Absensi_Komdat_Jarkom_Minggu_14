@@ -1,3 +1,6 @@
+Nama: Aryasatya Alaauddin
+NRP: 5027231082
+
 # Keamanan Jaringan dan Teknologi Pendukung
 
 ## 1. **NAT (Network Address Translation)**
